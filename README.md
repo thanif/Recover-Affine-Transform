@@ -4,4 +4,4 @@ The script allows the user to mark n corresponding points on two images and reco
 
 # Demo
 
-![alt text](demo.gif)
+![alt text](Recover_Affine_Transform.gif)
